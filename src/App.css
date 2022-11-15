@@ -17,9 +17,9 @@ footer {
 section {
     background-color: #F6F3EF;
     font-size: 10px;
-    height: 400px;
+    height: 630px;
     overflow: hidden;
-    flex-basis: 350px;
+    flex-basis: 45%;
     flex-grow: 1;
     flex-shrink: 1;
     display: flex;
